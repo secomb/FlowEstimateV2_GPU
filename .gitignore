@@ -1,0 +1,9 @@
+*.vcxproj.user
+*.vcxproj
+*.sln
+*.swp
+NetworkNew.dat
+
+Current/
+x64/
+.vs/
